@@ -1,4 +1,4 @@
-![The Astro logo.](assets/social/banner-minimal.png 'The Astro logo.')
+ ![The Astro logo.](assets/social/banner-minimal.png 'The Astro logo.')
 
 <p align="center">
   <br/>
